@@ -1,0 +1,2 @@
+vm1 會更新檔案後推到master上 
+等下vm2 再推一個新的branch
