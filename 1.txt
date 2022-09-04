@@ -1,5 +1,1 @@
-1111
-
-first change
-
-second change
+it should be only one line. got gitignore test 
