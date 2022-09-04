@@ -1,1 +1,2 @@
+22
 it should be only one line. got gitignore test 
